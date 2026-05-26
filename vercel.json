@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://hammerhead-kilogram-dab.notion.site/FS-Mola-ApexTrading-Co-Ltd-35f28f54ebbc80b4American%20Eagle63c4f64d7c94b1"
+    }
+  ]
+}
